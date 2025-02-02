@@ -1,0 +1,14 @@
+# Ignorar archivos de NetBeans
+/nbproject/private/
+/build/
+/dist/
+
+# Ignorar archivos de dependencias y configuraciones
+*.log
+*.bak
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos de conexión local (si tienes credenciales en un archivo separado)
+config.properties
+
